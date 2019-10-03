@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/WebVision_CustomerRegistrationNotification",
+    "name": "OpenMageModuleFostering\/WebVision_CustomerRegistrationNotification",
     "type": "magento-module",
     "license": "LGPL",
     "homepage": "",
     "description": "Get a notification email of every new customer registration, including a customizable email template.",
     "authors": [
-    {
-        "name": "Tim Werdin",
-        "email": "t.werdin@web-vision.de"
-    }
-],
+        {
+            "name": "Tim Werdin",
+            "email": "t.werdin@web-vision.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
